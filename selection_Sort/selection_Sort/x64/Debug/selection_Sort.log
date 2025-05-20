@@ -1,0 +1,9 @@
+﻿  Main.cpp
+P:\VS 2019\selection_Sort\selection_Sort\Main.cpp(11,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+P:\VS 2019\selection_Sort\selection_Sort\Main.cpp(14,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+P:\VS 2019\selection_Sort\selection_Sort\Main.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  selection_Sort.vcxproj -> P:\VS 2019\selection_Sort\x64\Debug\selection_Sort.exe
